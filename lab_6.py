@@ -31,7 +31,7 @@ otherwise,
 
 loop three times
   print the output (fruit) to the user
-  """
+"""
 
 
 import random
